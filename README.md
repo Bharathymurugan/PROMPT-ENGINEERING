@@ -56,6 +56,17 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 
 # OUTPUT:
+## Q1: Explain the foundational concepts of Generative AI. 
+
+## PROMPT: 
+
+Imagine you are a Generative AI engineer explaining the foundational concepts of Generative AI to an undergraduate computer science student. 
+ Provide a comprehensive and technically accurate explanation of the fundamental principles of Generative AI. Cover the definition of Generative AI, its relationship with Artificial Intelligence, Machine Learning, and Deep Learning, how generative models learn patterns from training data, the role of probability distributions, and how new content is generated during inference. 
+ Explain essential technical terminologies with appropriate examples. Differentiate Generative AI from traditional rule-based systems and discriminative AI models. Include a comparison table to clarify these distinctions. 
+ Support the explanation with relevant real-world examples and credible references from academic research papers and official technical documentation. Provide verifiable source details, including author names, publication years, titles, and DOI or URLs where available. 
+ Organize the response logically, progressing from basic definitions to underlying principles. Maintain undergraduate-level accessibility without sacrificing technical depth or accuracy. Avoid unsupported claims and fabricated references. Conclude with a concise summary of the fundamental concepts. 
+
+## MODEL 1- Claude: 
 # How a Large Language Model Is Built: End-to-End Guide for CS Undergraduates
 
 *Pipelines vary across organizations and model families; this describes a common pattern, not a universal recipe. Verify links before citing.*
